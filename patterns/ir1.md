@@ -79,5 +79,9 @@ Human workweek will successfully shrink only when human-owned obligations collap
 Even something intermediate like start-of-week human determines obligations, and then hands-off for most of the week, and then at the end of week, human stays in the loop to inspect, this will already save a lot of cognitive bandwidth. (We can also describe this as declaratively delegating obligations. Actually, declarativeness has taken a large step given the improvements in machine learning over the last two decades, since there is enough expressiveness on the other side to accommodate declarativeness across a large amount of tasks and spaces. We need to expand that to responsibility.) AI's conclusion on this: "It’s a world in which humans primarily choose which states of the world they want to become responsible for creating, and almost everything downstream of that choice can become somebody—or something—else’s problem."
 
 
+## updates
+
+update 2: another test is a scaling test: "with our current pipeline, can we scale to 50 components with a team of 10? what about 100? 200?"
+
 
 
